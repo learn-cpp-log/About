@@ -34,7 +34,7 @@ The programs below were made by following <a href="https://www.learncpp.com/">le
 
 <ol>
   <li><a href='https://github.com/learn-cpp-log/HelloWorld'>Hello world</a></li>
-  <li><a href=''></a>std::cin test</li>
+  <li><a href='https://github.com/learn-cpp-log/stdcin'>Practice for std::cin</a></li>
   <li><a href=''></a></li>
   <li><a href=''></a></li>
 </ol>
