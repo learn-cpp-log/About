@@ -3,7 +3,7 @@
 <h1 align="center">Learn C++ Log</h1>
 
 <div align="center">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnVzeGV1NmFodzk5MGFqN3BxaGY0cnRpZ3A3cWJ4NmtnNXg4Y2VydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.webp" alt="Logo" width="500" height="280">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhsbm91aTl4djJ3cm9pcjBxMHo5ZzZ1MzNrY3RrY2IzMHJoMDJ0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.webp" alt="Logo" width="500" height="280">
 
 </div>
 
