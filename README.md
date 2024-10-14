@@ -33,7 +33,7 @@ Lists of these projects can be found below, both <a href="#tutorial-projects">ma
 The programs below were made by following <a href="https://www.learncpp.com/">learncpp.com</a> directions
 
 <ol>
-  <li><a href='#'>Hello world</a></li>
+  <li><a href='https://github.com/learn-cpp-log/HelloWorld'>Hello world</a></li>
   <li><a href=''></a>std::cin test</li>
   <li><a href=''></a></li>
   <li><a href=''></a></li>
