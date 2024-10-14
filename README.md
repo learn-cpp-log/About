@@ -26,7 +26,7 @@
 ## About the organization
 <a href="https://github.com/learn-cpp-log">learn-cpp-log</a> organization is created to track the progress of Artur learning C++.
 Programs that were compiled and run by me will be added in a new repository under this organization.
-Lists of these projects can be found below, both <a href="#tutorial-projects">made according to tutorials</a> and <a href="my-projects">made all by myself</a>.
+Lists of these projects can be found below, both <a href="#tutorial-projects">made according to tutorials</a> and <a href="#my-projects">made all by myself</a>.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Tutorial projects
