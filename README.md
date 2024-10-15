@@ -35,8 +35,11 @@ The programs below were made by following <a href="https://www.learncpp.com/">le
 <ol>
   <li><a href='https://github.com/learn-cpp-log/HelloWorld'>Hello world</a></li>
   <li><a href='https://github.com/learn-cpp-log/stdcin'>Practice for std::cin</a></li>
-  <li><a href=''></a></li>
-  <li><a href=''></a></li>
+  <li><a href='https://github.com/learn-cpp-log/Multiplier'>Multiplier</a></li>
+  <li><a href='https://github.com/learn-cpp-log/AddSubstract'>Add and Substract functions</a></li>
+  <li><a href='https://github.com/learn-cpp-log/FunctionsLesson'>Functions Lesson</a></li>
+  <li><a href='https://github.com/learn-cpp-log/MultiFileExample'>Multi-file Example</a></li>
+<!--   <li><a href=''></a></li> -->
 </ol>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
